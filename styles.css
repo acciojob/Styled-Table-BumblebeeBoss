@@ -1,6 +1,7 @@
 /* your code */
-.head{
+th{
 	background-color:red;
+	width:100%;
 }
  tr:nth-child(even) {
             background-color: Lightgreen;
